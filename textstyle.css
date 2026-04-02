@@ -1,0 +1,19 @@
+  .Eins {
+    font-family: Arial;
+    font-size:medium;
+    text-align: center;
+  }
+
+  .Zwei {
+    font-family: Arial;
+    font-size: small;
+    text-align: center;
+    width: 400px;
+    margin-left: 10cm;
+  }
+
+  .Drei {
+    color: green
+  }
+
+ 
